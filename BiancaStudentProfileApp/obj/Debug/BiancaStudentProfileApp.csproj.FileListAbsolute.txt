@@ -1,7 +1,0 @@
-C:\Users\bianc_d72o04d\source\repos\BiancaStudentProfileApp\BiancaStudentProfileApp\bin\Debug\BiancaStudentProfileApp.exe.config
-C:\Users\bianc_d72o04d\source\repos\BiancaStudentProfileApp\BiancaStudentProfileApp\bin\Debug\BiancaStudentProfileApp.exe
-C:\Users\bianc_d72o04d\source\repos\BiancaStudentProfileApp\BiancaStudentProfileApp\bin\Debug\BiancaStudentProfileApp.pdb
-C:\Users\bianc_d72o04d\source\repos\BiancaStudentProfileApp\BiancaStudentProfileApp\obj\Debug\BiancaStudentProfileApp.csproj.AssemblyReference.cache
-C:\Users\bianc_d72o04d\source\repos\BiancaStudentProfileApp\BiancaStudentProfileApp\obj\Debug\BiancaStudentProfileApp.csproj.CoreCompileInputs.cache
-C:\Users\bianc_d72o04d\source\repos\BiancaStudentProfileApp\BiancaStudentProfileApp\obj\Debug\BiancaStudentProfileApp.exe
-C:\Users\bianc_d72o04d\source\repos\BiancaStudentProfileApp\BiancaStudentProfileApp\obj\Debug\BiancaStudentProfileApp.pdb
